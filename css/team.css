@@ -1,0 +1,92 @@
+.team {
+  padding: 2.25rem 0;
+  background: lightgray;
+}
+
+.team-members {
+  padding-top: 2.25rem;
+}
+
+.team-member {
+  margin-bottom: 1.25rem;
+}
+
+.member-image {
+  display: inline-block;
+  float: left;
+  width: 170px;
+}
+
+.member-photo {
+  border: 5px solid darkslategray;
+  border-radius: 100%;
+  width: 150px;
+  height: auto;
+}
+
+.member-info {
+  display: inline-block;
+  max-width: 270px;
+  margin-left: 20px;
+}
+
+.member-info .footnote {
+  display: block;
+  color: darkred;
+}
+
+.member-info .footnote:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.member-details {
+  list-style-type: square;
+  margin: 0.5rem 0 1.25rem;
+}
+
+.member-social {
+  background: white;
+  border-radius: 3px;
+  display: inline-block;
+  padding: .8rem 1.25rem .5rem;
+  margin-top: .6rem;
+}
+
+.member-social-link {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+
+.facebook-icon {
+  background: url('../img/icons/social/facebook.png') center top no-repeat;
+}
+
+.vk-icon {
+  background: url('../img/icons/social/vk.png') center top no-repeat;
+}
+
+.twitter-icon {
+  background: url('../img/icons/social/twitter.png') center top no-repeat;
+}
+
+.youtube-icon {
+  background: url('../img/icons/social/youtube.png') center top no-repeat;
+}
+
+.facebook-icon:hover {
+  background: url('../img/icons/social/facebook-hover.png') center top no-repeat;
+}
+
+.vk-icon:hover {
+  background: url('../img/icons/social/vk-hover.png') center top no-repeat;
+}
+
+.twitter-icon:hover {
+  background: url('../img/icons/social/twitter-hover.png') center top no-repeat;
+}
+
+.youtube-icon:hover {
+  background: url('../img/icons/social/youtube-hover.png') center top no-repeat;
+}

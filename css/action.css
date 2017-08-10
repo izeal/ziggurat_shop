@@ -1,0 +1,21 @@
+.action {
+  padding: 2.5rem 0;
+  background: aliceblue;
+}
+
+.action-image {
+  height: 300px;
+}
+
+.form-input {
+  width: 65%;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 1.25rem;
+  padding: 5px;
+}
+
+input.button {
+  border: 0;
+}

@@ -1,0 +1,38 @@
+.reviews {
+  padding: 2.5rem;
+  background: aliceblue;
+}
+
+.reviews-box {
+  padding-top: 2.5rem;
+}
+
+.review {
+  padding: 0 .5rem;
+  margin-bottom: 1.25rem;
+}
+
+.review-image {
+  display: inline-block;
+  float: left;
+  width: 170px;
+}
+
+.review-client-photo {
+  height: 200px;
+  width: auto;
+}
+
+.review-details {
+  margin-left: 175px;
+}
+
+.review-details .title-small {
+  margin-bottom: 0;
+}
+
+.review-details .text-medium {
+  margin-top: 1rem;
+  font-weight: bold;
+  text-align: justify;
+}

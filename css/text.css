@@ -1,0 +1,45 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  color: darkslategray;
+}
+
+.title-main {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.title-medium {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: .75rem;
+}
+
+.title-small {
+  font-size: 1.25rem;
+  margin-bottom: .5rem;
+}
+
+.subtitle {
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.8rem;
+}
+
+.text-medium {
+  font-size: .9rem;
+  line-height: 1.5rem;
+}
+
+.footnote {
+  font-size: .75rem;
+  font-style: italic;
+}
+
+.text-center {
+  text-align: center;
+}

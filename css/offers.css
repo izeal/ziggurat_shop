@@ -1,0 +1,87 @@
+.offers {
+  background: lightgray;
+  padding: 2.25rem;
+}
+
+.offers-prices {
+  padding: 2.25rem 0;
+}
+
+.offer {
+  width: 280px;
+  background: cornflowerblue;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+.offer-header, .offer-footer {
+  background: dodgerblue;
+  padding: .5rem 0;
+}
+
+.offer-header .title-medium {
+  margin: 0;
+}
+
+.offer-header {
+  border-radius: 10px 10px 0 0;
+  border-bottom: 1px solid darkblue;
+}
+
+.offer-footer {
+  border-radius: 0 0 10px 10px;
+  border-top: 1px solid darkblue;
+}
+
+.offer-image, .offer-image img {
+  height: 120px;
+}
+
+.offer-details {
+  list-style-type: none;
+}
+
+.offer-attribute {
+  line-height: 32px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.attribute-special {
+  font-style: italic;
+}
+
+.attribute-with-icon {
+  text-align: left;
+  margin-left: 112px;
+  padding-left: 40px;
+}
+
+.attribute-health {
+  background: url('../img/icons/attributes/health.png') no-repeat scroll 0 0 transparent;
+}
+
+.attribute-attack {
+  background: url('../img/icons/attributes/attack.png') no-repeat scroll 0 0 transparent;
+}
+
+.attribute-armor {
+  background: url('../img/icons/attributes/armor.png') no-repeat scroll 0 0 transparent;
+}
+
+.attribute-built-time {
+  background: url('../img/icons/attributes/built_time.png') no-repeat scroll 0 0 transparent;
+}
+
+.attribute-food {
+  background: url('../img/icons/attributes/food.png') no-repeat scroll 0 0 transparent;
+}
+
+.attribute-gold {
+  background: url('../img/icons/attributes/gold.png') no-repeat scroll 0 0 transparent;
+}
+
+.attribute-wood {
+  background: url('../img/icons/attributes/wood.png') no-repeat scroll 0 0 transparent;
+}

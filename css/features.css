@@ -1,0 +1,9 @@
+.features {
+  padding: 3rem;
+  background-color: aliceblue;
+}
+
+.feature-item {
+  padding: .6rem;
+  margin-bottom: 1.25rem;
+}

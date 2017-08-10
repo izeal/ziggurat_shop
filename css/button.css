@@ -1,0 +1,28 @@
+.button {
+  display: inline-block;
+  font-size: 1rem;
+  text-decoration: none;
+  padding: 1em 2em;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.button-green {
+  color: white;
+  background: limegreen;
+}
+
+.button-green:hover {
+  color: white;
+  background: darkgreen;
+}
+
+.button-blue {
+  color: black;
+  background: cornflowerblue;
+}
+
+.button-blue:hover {
+  color: white;
+  background: darkblue;
+}

@@ -1,0 +1,23 @@
+.intro {
+  background-color: rgba(0, 0, 0, 0);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, .1), rgba(0, 0, 0, .5) 60%, rgba(0, 0, 0, .1)),
+                    url('../img/bg.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll, fixed;
+  background-position: center center, 0 60%;
+
+  color: white;
+  padding: 3.75rem;
+  margin-top: 90px;
+}
+
+.intro:berofe {
+  display:block;
+  content: '';
+}
+
+.intro-logo {
+  width: 180px;
+  height: auto;
+}
