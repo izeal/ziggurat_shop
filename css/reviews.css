@@ -34,5 +34,15 @@
 .review-details .text-medium {
   margin-top: 1rem;
   font-weight: bold;
-  text-align: justify;
+}
+
+@media (max-width: 960px) {
+  .review-image {
+    display: block;
+    float: none;
+  }
+  .review-details {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
 }

@@ -11,6 +11,12 @@
   margin-bottom: 1.25rem;
 }
 
+.team-member:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+
 .member-image {
   display: inline-block;
   float: left;
