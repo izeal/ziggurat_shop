@@ -1,11 +1,11 @@
 $(function(){
   $('.button-order').click(function(){
-   var data = $(this).attr('data-order'); 
-   
+   var data = $(this).attr('data-order');
+
    $('.action-image').attr('src', 'img/' + data + '.png');
    $('.form-select').val(data).prop('selected', true);
   });
-  
+
   $('.button-link').click(function(){
     var id = $(this).attr('href');
 
